@@ -38,11 +38,11 @@ File ini berfungsi sebagai referensi praktis bagi pengguna yang ingin melihat se
 
 ## Struktur Direktori
 
->> Dataset
-  >> Narkotika.zip
->> Overview
-  >> Overview.xlsx
->> README.md
+•	Dataset
+  •	Narkotika.zip
+•	Overview
+  •	Overview.xlsx
+•	README.md
 
 ## Bidang Data
 
